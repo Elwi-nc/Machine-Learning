@@ -12,7 +12,11 @@ Outils : utilisation d'un modèle de regression linéaire et de régularisations
 
 
 2. Conversion Rate Challenge
-3. Uber pickups
+
+Sous forme de notebook, étude du taux de conversion d'un site web 
+
+4. Uber pickups
+
 Sous forme de notebook, étude de la répartition des courses uber sur la région étendue de New-York
 Objectif du projet : livrer un modèle de clustering capable de regrouper la demande en zones en fonction de leur densité, afin de permettre a uber de positionner ses chauffeurs selon le jour de la semaine et l'heure de la journée
 Outils : utilisation de modèles de clustering => KMeans & DBscan
