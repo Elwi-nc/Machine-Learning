@@ -2,7 +2,7 @@ Bloc 3 : Analyse prédictive de données structurées par l'intelligence artific
 
 Luca Laborde - luca.laborde@gmail.com
 
-Lien de la vidéo : 
+Lien de la vidéo : https://share.vidyard.com/watch/iYmYyH4gaRFTd9ufUVList?
 
 1. Walmart Sales
 
