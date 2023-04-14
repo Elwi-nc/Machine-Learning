@@ -13,7 +13,9 @@ Outils : utilisation d'un modèle de regression linéaire et de régularisations
 
 2. Conversion Rate Challenge
 
-Sous forme de notebook, étude du taux de conversion d'un site web 
+Sous forme de notebook, étude du taux de conversion d'un site web par utilisateur l'ayant fréquenté.
+Objectif du projet : livrer un modèle permettant d'obtenir un f1 score correct sachant que la variable cible connait un important déséquilibre.
+Outils : gridsearch cv, modèles de machine learning de classification, recherches google pour compenser un training sur une classe déséquilibrée.
 
 4. Uber pickups
 
